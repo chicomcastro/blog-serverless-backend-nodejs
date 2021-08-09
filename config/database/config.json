@@ -1,8 +1,8 @@
 {
   "local": {
     "host": "localhost",
-    "username": "postgres",
-    "password": "postgres",
+    "username": "admin",
+    "password": "admin",
     "database": "postgres",
     "dialect": "postgresql",
     "log": true

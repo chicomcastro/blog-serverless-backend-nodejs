@@ -5,6 +5,7 @@
   ],
   "jsRules": {},
   "rules": {
+    "indent": ["error", 2],
     "no-var-requires": false,
     "no-console": false,
     "no-empty-interface": false,
